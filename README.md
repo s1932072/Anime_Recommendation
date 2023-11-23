@@ -8,6 +8,7 @@ This project is Anime Recommendation system.
 
 使用技術
 Backend:FastAPI
+
 Frontend:streamlit
 
 ## デモ動画
