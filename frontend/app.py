@@ -34,7 +34,7 @@ with col2:
     if response.status_code == 200:
         recommended_animes = response.json().get("recommended_animes", [])  
         if recommended_animes:
-            st.write(anime_names + "が好きなあなたにおすすめなアニメは以下の通りです。")
+            st.write("あなたにおすすめなアニメは以下の通りです。")
             for i, anime in enumerate(recommended_animes):
                 st.write(f"{i+1}: {anime}")
         else:
