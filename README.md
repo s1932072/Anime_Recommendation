@@ -9,6 +9,3 @@ This project is Anime Recommendation system.
 ## デモ動画
 
 
-
-Uploading %E7%94%BB%E9%9D%A2%E5%8F%8E%E9%8C%B2%202023-11-23%2012.23.46.mp4…
-
