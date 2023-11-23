@@ -7,6 +7,7 @@ This project is Anime Recommendation system.
 各アニメに対してユーザーが評価を行ったデータを使用してKNNモデルを作成
 
 使用技術
+
 Backend:FastAPI
 
 Frontend:streamlit
