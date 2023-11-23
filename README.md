@@ -9,3 +9,7 @@ This project is Anime Recommendation system.
 ## デモ動画
 
 
+
+
+https://github.com/s1932072/Anime_Recommendation/assets/116695793/fecca749-eef9-46c7-b149-55edf7dfe8f1
+
